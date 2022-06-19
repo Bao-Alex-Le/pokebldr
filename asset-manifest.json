@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/pokebldr/static/css/main.b0a1b3d4.css",
-    "main.js": "/pokebldr/static/js/main.55e7d214.js",
+    "main.js": "/pokebldr/static/js/main.835b3d31.js",
     "static/js/787.bc8cc528.chunk.js": "/pokebldr/static/js/787.bc8cc528.chunk.js",
     "static/media/pokemonicons.png": "/pokebldr/static/media/pokemonicons.7eb5512c4f3e4fd0c126.png",
     "static/media/Zygarde Complete.png": "/pokebldr/static/media/Zygarde Complete.a8d3ab9ff80f5b4e88d3.png",
@@ -1056,11 +1056,11 @@
     "static/media/logo.svg": "/pokebldr/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/pokebldr/index.html",
     "main.b0a1b3d4.css.map": "/pokebldr/static/css/main.b0a1b3d4.css.map",
-    "main.55e7d214.js.map": "/pokebldr/static/js/main.55e7d214.js.map",
+    "main.835b3d31.js.map": "/pokebldr/static/js/main.835b3d31.js.map",
     "787.bc8cc528.chunk.js.map": "/pokebldr/static/js/787.bc8cc528.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b0a1b3d4.css",
-    "static/js/main.55e7d214.js"
+    "static/js/main.835b3d31.js"
   ]
 }
